@@ -7,4 +7,4 @@ Created for modeling class, Jan 2016
 Modeling the full range of subsurface to surface geotherm profiles changing wth time
 In order to understand history of temperature changes on the north slope of Alaska
 Finite difference applied.
-In matlab format
+<br> In matlab format
