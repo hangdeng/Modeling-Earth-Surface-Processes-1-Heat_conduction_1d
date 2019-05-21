@@ -8,3 +8,6 @@ Modeling the full range of subsurface to surface geotherm profiles changing wth 
 <br>In order to understand history of temperature changes on the north slope of Alaska
 Finite difference applied.
 <br> In matlab format
+
+------
+Created by <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
